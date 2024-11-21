@@ -1,4 +1,4 @@
-package org.example;
+package ritual_Beast.com;
 
 public interface ComboManagement {
 

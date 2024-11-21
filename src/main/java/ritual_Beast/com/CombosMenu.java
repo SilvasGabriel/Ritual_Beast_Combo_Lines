@@ -1,4 +1,4 @@
-package org.example;
+package ritual_Beast.com;
 
 import java.util.Scanner;
 
