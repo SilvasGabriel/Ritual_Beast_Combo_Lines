@@ -63,6 +63,7 @@ public class StarterMenu {
                     case 10 -> combo.elderCannahawkBLines3();
                     case 11 -> combo.elderCannahawkBLines4();
                     case 12 -> combo.elderCannahawkBLines5();
+                    case 13 -> combo.elderRampenguBLines1();
                     default -> System.out.println("Invalid choice. Please select a number between 1 and 15.");
 
                 }

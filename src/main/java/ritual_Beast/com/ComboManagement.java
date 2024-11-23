@@ -15,4 +15,5 @@ public interface ComboManagement {
      void elderCannahawkBLines4();
      void elderCannahawkBLines5();
      void elderRampenguBLines1();
+     void elderRampenguBLines2();
 }

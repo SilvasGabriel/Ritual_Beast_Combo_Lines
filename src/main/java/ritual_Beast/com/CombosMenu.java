@@ -431,8 +431,53 @@ public class CombosMenu implements ComboManagement {
     @Override
     public void elderRampenguBLines1() {
         displaySteps(
-                ""
+                "Summon first Ritual Beast Tamer Elder and next Spiritual Beast Rampengu",
+                "Effect Spiritual Beast Rampengu banish Ritual Beast Ulti-Gaiapelio and send to the graveyard Spiritual Beast Tamer Lara",
+                "Contact fusion into Ritual Beast Ulti-Cannahawk",
+                "Select first Ritual Beast Ulti-Gaiapelio and Spiritual Beast Rampengu and next select Ritual Beast Tamer Elder and Spiritual Beast Rampengu",
+                "Add Ritual Beast Tamer Lara to the hand",
+                "Spiritual Beast Rampengu effect banish Ritual Beast Ulti-Cannahawk and send Spiritual Beast Cannahawk",
+                "Link summon Ritual Beast Ulti-Kimunfalcos using Spiritual Beast Rampengu and Ritual Beast Tamer Elder",
+                "Effect banish Spiritual Beast Tamer Lara and summon Ritual Beast Tamer Lara",
+                "Spiritual Beast Tamer Lara effect and Ritual Beast Tamer Lara effect",
+                "First summon Spiritual Beast Cannahawk and next summon Spiritual Beast Tamer Winda",
+                "Spiritual Beast Cannahawk effect banish Spiritual Beast Tamer Lara",
+                "XYZ summon using Spiritual Beast Cannahawk and Spiritual Beast Tamer Winda to Infernal Flame Banshee",
+                "Effect send Spiritual Beast Tamer Winda and add to the hand Nameses Flag",
+                "Nameses Flag effect return Ritual Beast Ulti-Cannahawk add Archnemeses Protos to the hand",
+                "Link summon using Infernal Flame Banshee,Ritual Beast Ulti-Kimunfalcos and Nameses Flag to Ritual Beast Ulti-Reirautari",
+                "Banish from the graveyard Spiritual Beast Tamer Winda and Spiritual Beast Cannahawk to summon Ritual Beast Ult-Nochiudrago",
+                "Ritual Beast Ulti-Reirautari effect add Spiritual Beast Cannahawk to the hand and summon him",
+                "Spiritual Beast Cannahawk effect banish Spiritual Beast Apelio",
+                "Contact fusion using Ritual Beast Tamer Lara and Spiritual Beast Cannahawk to summon Ritual Beast Ulti-Cannahawk",
+                "Effect first select Spiritual Beast Tamer Lara and Spiritual Beast Apelio next effect select Spiritual Beast Apelio and Ritual Beast Tamer Lara",
+                "Add Ritual Beast Steeds to hand",
+                "Spiritual Beast Apelio effect banish Ritual Beast Ulti-Gaiapelio",
+                "Summon Archnemeses Protos banishing Spiritual Beast Tamer Lara, Infernal Flame Banshee and Ritual Beast Ulti-Kimunfalcos",
+                "Infernal Flame Banshee effect summon her to the field",
+                "Archnemeses Protos effect call FIRE",
+                "Contact fusion Ritual Beast Tamer Lara and Spiritual Beast Apelio to summon Ritual BEast Ulti-Cannahawk",
+                "Effect first select Ritual Beast Ulti-Gaiapelio and Spiritual Beast Tamer Lara next select Spiritual Beast Tamer Lara and Spiritual Beast Tamer Lara",
+                "Add to the hand Ritual Beast Tamer Wen",
+                "Contact fusion Spiritual Beast Tamer Lara and Spiritual Beast Tamer Lara into Ritual Beast Ulti-Cannahawk",
+                "Effect first select Spiritual BEast Tamer Lara and Ritual Beast Tamer Lara",
+                "Add Spiritual Beast Tamer Lara to the hand",
+                "Spiritual Beast Tamer Lara from the hand effect summon Ritual Beast Tamer Wen",
+                "Ritual Beast Tamer Wen effect summon Ritual Beast Ulti-Kimunfalcos",
+                "Using Ritual Beast Ulti-Cannahawk and Archnemeses Protos summon I:P Masquerena",
+                "Using Ritual Beast Ulti-Kimunfalcos and Ritual Beast Tamer Wen summon S:P Little Knight",
+                "S:P Little Knight effect banish Ritual Beast Ulti-Kimunfalcos",
+                "Set Ritual Beast Steeds",
+                "End your turn"
+
         );
+    }
+
+    @Override
+    public void elderRampenguBLines2() {
+       displaySteps(
+               ""
+       );
     }
 
 
