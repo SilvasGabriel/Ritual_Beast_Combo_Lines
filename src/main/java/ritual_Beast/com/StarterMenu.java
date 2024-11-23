@@ -29,7 +29,7 @@ public class StarterMenu {
                     11 - RBT Elder + Cannahawk - Nibiru Line with Apollousa
                     12 - RBT Elder + Cannahawk - Nibiru Line with Ritual Beast Ulti-Gaiapelio Protos DARK
                     13 - RBT Elder + Rampengu
-                    14 - E-Teleport + Rampengu
+                    14 - RBT Elder + Rampengu - Shifter
                     15 - E-Teleport + Apelio
                     16 - E-Teleport + E-Teleport\s
                    \s"""
@@ -64,6 +64,7 @@ public class StarterMenu {
                     case 11 -> combo.elderCannahawkBLines4();
                     case 12 -> combo.elderCannahawkBLines5();
                     case 13 -> combo.elderRampenguBLines1();
+                    case 14 -> combo.elderRampenguBLines2();
                     default -> System.out.println("Invalid choice. Please select a number between 1 and 15.");
 
                 }

@@ -476,7 +476,41 @@ public class CombosMenu implements ComboManagement {
     @Override
     public void elderRampenguBLines2() {
        displaySteps(
-               ""
+               "First activate Dimensional Shifter from your turn or opponents turn",
+               "Summon Ritual Beast Tamer Elder and next Spiritual Beast Rampengu effect banish Ritual Beast Ulti-Gaiapelio and Spiritual Beast Tamer Lara",
+               "Don't activate the effect of Spiritual Beast Tamer Lara",
+               "Contact fusion Ritual Beast Tamer Elder and Spiritual Beast Rampengu into Ritual Beast Ulti-Cannahawk",
+               "Effect first select Spiritual Beast Tamer Lara and Ritual Beast Ulti-Gaiapelio second effect Spiritual Beast Rampengu and Ritual Beast Tamer Elder",
+               "Add Ritual Beast Tamer Wen to the hand",
+               "Spiritual Beast Rampengu effect banish Ritual Beast Ulti-Apelio and Spiritual Beast Apelio",
+               "Link summon Spiritual Beast Rampengu and Ritual Beast Tamer Elder into Ritual Beast Ulti-Kimunfalcos",
+               "Effect banish Spiritual Beast Tamer Lara and summon Ritual Beast Tamer Wen",
+               "Ritual Beast Tamer Wen effect summon Spiritual Beast Apelio, Spiritual Beast Tamer Lara effect summon Spiritual Beast Cannahawk",
+               "Spiritual Beast Cannahawk effect banish Spiritual Beast Tamer Winda",
+               "Contact fusion Ritual Beast Tamer Wen and Spiritual Beast Cannahawk into Ritual Beast Ulti-Cannahawk",
+               "Effect first select Spiritual Beast Rampengu and Spiritual Beast Tamer Lara next select Ritual Beast Tamer Winda and Spiritual Beast Tamer Winda",
+               "Add Ritual Beast Steeds to the hand",
+               "XYZ summon using Spiritual Beast Apelio and Spiritual Beast Tamer Winda to summon Infernal Flame Banshee",
+               "Effect send Spiritual Beast Tamer Winda and add Nameses Flag to the hand",
+               "Nameses Flag effect return Ritual Beast Ulti-Apelio and summon him search for Archnemeses Protos",
+               "Banish from the graveyard Spiritual Beast Tamer Lara and Spiritual Beast Rampengu to summon Ritual Beast Ulti-Nochiudrago",
+               "Link summon using Infernal Flame Banshee,Ritual Beast Ulti-Kimunfalcos and Ritual Beast Ulti-Nochiudrago to summon Ritual Beast Ulti-Reirautari",
+               "Infernal Flame Banshee effect summon her to the field",
+               "Ritual Beast Ulti-Reirautari effect select Spiritual Beast Cannahawk to the hand and summon him",
+               "Spiritual Beast Cannahawk effect banish Spiritual Beast Tamer Lara",
+               "Contact fusion Spiritual Beast Cannahawk and Ritual Beast Tamer Wen into Ritual Beast Ulti-Cannahawk",
+               "Effect first select Spiritual Beast Rampengu and Ritual Beast Ulti-Kimunfalcos second effect select Spiritual Beast Tamer Lara and Spiritual Beast Tamer Lara",
+               "Add Ritual Beast Tamer Lara to the hand",
+               "Contact fusion the Spiritual Beast Tamer Lara and Spiritual Beast Tamer Lara to summon Ritual Beast Ulti-Cannahawk",
+               "Effect just first select Spiritual Beast Tamer Lara and Spiritual Beast Tamer Lara",
+               "Add Spiritual Beast Tamer Lara to the hand",
+               "Effect from hand Spiritual Beast Tamer Lara summon Ritual Beast Tamer Lara",
+               "Ritual Beast Tamer Lara effect summon Ritual Beast Ulti-Kimunfalcos",
+               "Link summon using Ritual Beast Tamer Lara and Infernal Flame Banshee I:P Masquerena",
+               "Summon Archnemeses Protos banishing Ritual Beast Ulti-Gaiapelio,Dimensional Shifter and Ritual Beast Rampengu",
+               "Effect Archnemeses Protos call FIRE",
+               "Set Ritual Beast Steeds",
+               "End your turn"
        );
     }
 
